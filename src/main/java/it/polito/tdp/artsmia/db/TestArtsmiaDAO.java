@@ -20,6 +20,7 @@ public class TestArtsmiaDAO {
 		List<Exhibition> exhibitions = dao.listExhibitions();
 		System.out.println(exhibitions.get(0));
 		System.out.println(exhibitions.size());
+		
 
 	}
 
